@@ -6,3 +6,4 @@ Creating a new branch is quick.
 quick 2 ...
 Creating a new branch is quick & simple test.
 
+test  --no-ff
